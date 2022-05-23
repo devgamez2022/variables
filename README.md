@@ -2,7 +2,7 @@
                     DART-GOOGLE
 ***********************************************************
 
-Manejod de Variables en Dart.
+Manejo de Variables en Dart.
 
 Ejemplos básicos de declación de variables.
 
