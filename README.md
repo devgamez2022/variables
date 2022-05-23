@@ -1,2 +1,15 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+***********************************************************
+                    DART-GOOGLE
+***********************************************************
+
+Manejod de Variables en Dart.
+
+Ejemplos básicos de declación de variables.
+
+Tipos de datos.
+
+Concatenar datos.
+
+Asignaciones.
+
+Otros.
